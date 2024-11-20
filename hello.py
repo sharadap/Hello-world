@@ -1,2 +1,3 @@
 import pandas
-pint "Hello"
+print "Hello"
+print "From Online Editor"
